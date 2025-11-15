@@ -2,6 +2,10 @@
 
 Un portfolio moderno y responsivo construido con Astro, diseñado para mostrar proyectos, experiencia y habilidades de manera profesional.
 
+## 🌐 Demo en vivo
+
+Puedes ver el sitio en funcionamiento en: **[https://lucianoaguirre.dev/](https://lucianoaguirre.dev/)**
+
 > **Basado en:** Este proyecto está basado en el template [Unicorn Sparkle](https://astro.build/themes/details/unicorn-sparkle/) de Astro.
 
 ## Características
