@@ -1,0 +1,243 @@
+{
+  "title": "Full Stack Developer - Luciano Aguirre",
+  "description": "Full Stack Developer from Buenos Aires, Argentina. Specialist in React, TypeScript, Node.js, SQL/NoSQL, Azure.",
+  "navbar": [
+    {
+      "label": "Home",
+      "href": "#top"
+    },
+    {
+      "label": "Experience",
+      "href": "/en/#work-experience"
+    },
+    {
+      "label": "Projects",
+      "href": "/en/#projects"
+    },
+    {
+      "label": "About me",
+      "href": "/en/#about-me"
+    }
+  ],
+  "hero": {
+    "job_availability": "Available for work!",
+    "title": "Hello I'm Luciano Aguirre!",
+    "job_title": "<strong>Full Stack Developer</strong> from Buenos Aires, Argentina.",
+    "description": "Specialist in React / Vue, TypeScript, Node.js, SQL/NoSQL, Azure.",
+    "cta": "Contact me"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "jobs": {
+      "jobs_title": [
+        "Freelance",
+        "Illumia Group",
+        "Massive Digital Agency",
+        "3Destiny RA",
+        "MindHub / Accenture",
+        "MindHub"
+      ],
+      "jobs_description": [
+        {
+          "title": "Full Stack Developer",
+          "time": [
+            "Nov 2020",
+            "Present"
+          ],
+          "description": "Providing full-stack development services for diverse clients across Latin America and international markets. Specializing in modern web applications using React ecosystem, implementing responsive designs with advanced animations and micro-interactions. Developed e-commerce platforms with integrated payment gateways, real-time analytics dashboards, and scalable cloud infrastructure on Azure and AWS. Successfully delivered projects ranging from corporate websites to complex SaaS applications, consistently exceeding client expectations in performance optimization and user experience.",
+          "list": [
+            "Custom Web Applications",
+            "E-commerce Development",
+            "Cloud Infrastructure",
+            "Performance Optimization",
+            "UI/UX Implementation"
+          ]
+        },
+        {
+          "title": "Full Stack Developer",
+          "time": [
+            "Aug 2025",
+            "Present"
+          ],
+          "description": "Providing full-stack development services for diverse clients across Latin America and international markets. Specializing in modern web applications using React ecosystem, implementing responsive designs with advanced animations and micro-interactions. Developed e-commerce platforms with integrated payment gateways, real-time analytics dashboards, and scalable cloud infrastructure on Azure and AWS. Successfully delivered projects ranging from corporate websites to complex SaaS applications, consistently exceeding client expectations in performance optimization and user experience.",
+          "list": [
+            "Custom Web Applications",
+            "E-commerce Development",
+            "Cloud Infrastructure",
+            "Performance Optimization",
+            "UI/UX Implementation"
+          ]
+        },
+        {
+          "title": "Full Stack Developer",
+          "time": [
+            "Jun 2022",
+            "Aug 2025"
+          ],
+          "description": "Responsible for frontend development on PromoHub, using technologies such as React, ViteJS, JavaScript, SCSS, Tailwind, Git, SQL Server, and Azure. Platform refactoring for commercialization to major beer brands, implementing Google Analytics for user tracking, under SCRUM methodology.",
+          "list": [
+            "Frontend Development",
+            "Platform Refactoring",
+            "Google Analytics Implementation",
+            "SCRUM Methodology"
+          ]
+        },
+        {
+          "title": "Full Stack Developer",
+          "time": [
+            "Mar 2022",
+            "Jun 2023"
+          ],
+          "description": "Responsible for frontend development of Augmented Reality on the 8thwall platform. Using TypeScript, React, MongoDB, Node, ViteJS, SCSS, and Tailwind.",
+          "list": [
+            "Frontend Development",
+            "Augmented Reality",
+            "8thwall Platform"
+          ]
+        },
+        {
+          "title": "Frontend Mentor",
+          "time": [
+            "Apr 2022",
+            "Oct 2022"
+          ],
+          "description": "Conducted live classes following agile SCRUM methodologies, teaching HTML5, CSS3, JavaScript, Vue3, and Firebase.",
+          "list": [
+            "Live Teaching",
+            "Agile Methodologies",
+            "Technical Training"
+          ]
+        },
+        {
+          "title": "Full Stack Developer Trainee",
+          "time": [
+            "Oct 2021",
+            "Jan 2022"
+          ],
+          "description": "Graduate of an intensive coding bootcamp that simulates a real work environment through the execution of various projects under SCRUM methodology. Using the MERN stack.",
+          "list": [
+            "Intensive Bootcamp",
+            "SCRUM Projects",
+            "MERN Stack"
+          ]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "My Heineken (Massive)",
+        "description": "The first digital loyalty platform that connects consumers with the complete Heineken experience.",
+        "image": "/src/images/projects/myhnk.jpg",
+        "techs": [
+          "React",
+          "TailwindCSS",
+          "Firebase",
+          "PWA"
+        ],
+        "preview": "Preview",
+        "link": "https://my.heineken.mx/"
+      },
+      {
+        "title": "Coca Cola - Locales (Massive)",
+        "description": "Promotional website for Coca-Cola Mexico featuring responsive design and optimized user experience. The project showcases content management system, dynamic rankings and interactive forms. Modern frontend built with current web technologies to maximize user engagement and participation in the promotional campaign.",
+        "image": "/src/images/projects/coca.jpg",
+        "techs": [
+          "Astro",
+          "CSS",
+          "SASS",
+          "TypeScript"
+        ],
+        "preview": "Preview",
+        "link": "https://www.coca-cola-locales.mx/"
+      },
+      {
+        "title": "DosEquis - Website (Massive)",
+        "description": "Dos Equis events portal with integrated loyalty program. Users can explore events and connect with the DosEquisID app.",
+        "image": "/src/images/projects/dosequis.jpg",
+        "techs": [
+          "React",
+          "TailwindCSS",
+          "TypeScript",
+          "PWA"
+        ],
+        "preview": "Preview",
+        "link": "https://dosequis.mx/"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Contributions",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "In collaboration with a marketing agency in Texas, United States. I worked on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
+        "techs": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "WordPress"
+        ],
+        "repo": "#",
+        "repo_label": "Repository",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "In collaboration with a marketing agency in Texas, United States. I worked on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
+        "techs": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "WordPress"
+        ],
+        "repo": "#",
+        "repo_label": "Repository",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "In collaboration with a marketing agency in Texas, United States. I worked on the creation of the website for the Advanced Periodontics & Dental Implants clinic.",
+        "techs": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "WordPress"
+        ],
+        "repo": "#",
+        "repo_label": "Repository",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "I'm a Full Stack Developer with a passion for frontend, with over 4 years of professional experience",
+    "description": "Full Stack Developer specialized in React and modern technologies, with proven experience working for digital agencies and major brands. I master the complete stack from frontend (React, Next.js, TypeScript, Tailwind) to backend (Node.js, MongoDB, PostgreSQL) and cloud (Azure, AWS). I have led commercial platform refactoring, developed Augmented Reality experiences, and mentored new developers. My focus is on creating scalable and optimized solutions, always under agile methodologies like SCRUM, which makes me a versatile and committed professional for any technological challenge."
+  },
+  "contact": {
+    "title": "Ready to make your dreams come true?",
+    "subtitle": "I can boost your project or be part of your team"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Designed with",
+      "designed_by": "by"
+    },
+    "developed": {
+      "developed_with": "Made with",
+      "developed_by": "by"
+    }
+  }
+}

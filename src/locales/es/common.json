@@ -1,0 +1,243 @@
+{
+  "title": "Desarrollador Full Stack - Luciano Aguirre",
+  "description": "Desarrollador Full Stack de Buenos Aires, Argentina. Especialista en React, TypeScript, Node.js, SQL/NoSQL, Azure.",
+  "navbar": [
+    {
+      "label": "Inicio",
+      "href": "#top"
+    },
+    {
+      "label": "Experiencia",
+      "href": "#experiencia-laboral"
+    },
+    {
+      "label": "Proyectos",
+      "href": "#proyectos"
+    },
+    {
+      "label": "Sobre mí",
+      "href": "#sobre-mi"
+    }
+  ],
+  "hero": {
+    "job_availability": "¡Disponible para trabajar!",
+    "title": "¡Hola soy Luciano Aguirre!",
+    "job_title": "<strong>Desarrollador Full Stack</strong> de Buenos Aires, Argentina.",
+    "description": "Especialista en React / Vue, TypeScript, Node.js, SQL/NoSQL, Azure.",
+    "cta": "Contactame"
+  },
+  "experience": {
+    "title": "Experiencia laboral",
+    "jobs": {
+      "jobs_title": [
+        "Freelance",
+        "Illumia Group",
+        "Massive Digital Agency",
+        "3Destiny RA",
+        "MindHub / Accenture",
+        "MindHub"
+      ],
+      "jobs_description": [
+        {
+          "title": "Full Stack Developer",
+          "time": [
+            "Nov 2020",
+            "Actualidad"
+          ],
+          "description": "Brindando servicios de desarrollo full-stack para diversos clientes en Latinoamérica y mercados internacionales. Especializado en aplicaciones web modernas utilizando el ecosistema React, implementando diseños responsivos con animaciones avanzadas y micro-interacciones. Desarrollé plataformas de e-commerce con pasarelas de pago integradas, dashboards de analíticas en tiempo real e infraestructura escalable en la nube con Azure y AWS. Entregué exitosamente proyectos que van desde sitios web corporativos hasta aplicaciones SaaS complejas, superando consistentemente las expectativas del cliente en optimización de rendimiento y experiencia de usuario.",
+          "list": [
+            "Aplicaciones Web Personalizadas",
+            "Desarrollo E-commerce",
+            "Infraestructura en la Nube",
+            "Optimización de Rendimiento",
+            "Implementación UI/UX"
+          ]
+        },
+        {
+          "title": "Full Stack Developer",
+          "time": [
+            "Ago 2025",
+            "Actualidad"
+          ],
+          "description": "Brindando servicios de desarrollo full-stack para diversos clientes en Latinoamérica y mercados internacionales. Especializado en aplicaciones web modernas utilizando el ecosistema React, implementando diseños responsivos con animaciones avanzadas y micro-interacciones. Desarrollé plataformas de e-commerce con pasarelas de pago integradas, dashboards de analíticas en tiempo real e infraestructura escalable en la nube con Azure y AWS. Entregué exitosamente proyectos que van desde sitios web corporativos hasta aplicaciones SaaS complejas, superando consistentemente las expectativas del cliente en optimización de rendimiento y experiencia de usuario.",
+          "list": [
+            "Aplicaciones Web Personalizadas",
+            "Desarrollo E-commerce",
+            "Infraestructura en la Nube",
+            "Optimización de Rendimiento",
+            "Implementación UI/UX"
+          ]
+        },
+        {
+          "title": "Full Stack Developer",
+          "time": [
+            "Jun 2022",
+            "Ago 2025"
+          ],
+          "description": "Encargado del desarrollo frontend en PromoHub, utilizando tecnologías como React, ViteJS, JavaScript, SCSS, Tailwind, Git, SQL Server y Azure. Refactorización de la plataforma para su comercialización a grandes marcas de cerveza, implementando Google Analytics para el seguimiento del usuario, bajo la metodología SCRUM.",
+          "list": [
+            "Desarrollo Frontend",
+            "Refactorización de plataforma",
+            "Implementación de Google Analytics",
+            "Metodología SCRUM"
+          ]
+        },
+        {
+          "title": "Full Stack Developer",
+          "time": [
+            "Mar 2022",
+            "Jun 2023"
+          ],
+          "description": "Encargado del desarrollo frontend de Realidad Aumentada en la plataforma 8thwall. Empleando Typescript, React, MongoDB, Node, ViteJS, SCSS y Tailwind.",
+          "list": [
+            "Desarrollo Frontend",
+            "Realidad Aumentada",
+            "Plataforma 8thwall"
+          ]
+        },
+        {
+          "title": "Frontend Mentor",
+          "time": [
+            "Abr 2022",
+            "Oct 2022"
+          ],
+          "description": "Impartí clases en vivo siguiendo metodologías ágiles SCRUM, enseñando HTML5, CSS3, JavaScript, Vue3 y Firebase.",
+          "list": [
+            "Enseñanza en vivo",
+            "Metodologías ágiles",
+            "Formación técnica"
+          ]
+        },
+        {
+          "title": "Full Stack Developer Trainee",
+          "time": [
+            "Oct 2021",
+            "Ene 2022"
+          ],
+          "description": "Egresado del bootcamp intensivo de codificación que simula un entorno laboral real mediante la ejecución de diversos proyectos bajo la metodología SCRUM. Utilizando el stack MERN.",
+          "list": [
+            "Bootcamp intensivo",
+            "Proyectos bajo SCRUM",
+            "Stack MERN"
+          ]
+        }
+      ]
+    }
+  },
+  "projects": {
+    "title": "Proyectos",
+    "projects": [
+      {
+        "title": "My Heineken (Massive)",
+        "description": "La primera plataforma digital de fidelidad que conecta a los consumidores con la experiencia completa de Heineken.",
+        "image": "/src/images/projects/myhnk.jpg",
+        "techs": [
+          "React",
+          "TailwindCSS",
+          "Firebase",
+          "PWA"
+        ],
+        "preview": "Vista previa",
+        "link": "https://my.heineken.mx/"
+      },
+      {
+        "title": "Coca Cola - Locales (Massive)",
+        "description": "Sitio web promocional para Coca-Cola México con diseño responsivo y experiencia de usuario optimizada. El proyecto presenta sistema de gestión de contenido, rankings dinámicos y formularios interactivos. Frontend moderno desarrollado con tecnologías web actuales para maximizar el engagement y participación de los usuarios en la campaña promocional.",
+        "image": "/src/images/projects/coca.jpg",
+        "techs": [
+          "Astro",
+          "CSS",
+          "SASS",
+          "TypeScript"
+        ],
+        "preview": "Vista previa",
+        "link": "https://www.coca-cola-locales.mx/"
+      },
+      {
+        "title": "DosEquis - Sitio web (Massive)",
+        "description": "Portal de eventos Dos Equis con programa de fidelidad integrado. Los usuarios pueden explorar eventos y conectar con la app DosEquisID",
+        "image": "/src/images/projects/dosequis.jpg",
+        "techs": [
+          "React",
+          "TailwindCSS",
+          "TypeScript",
+          "PWA"
+        ],
+        "preview": "Vista previa",
+        "link": "https://dosequis.mx/"
+      }
+    ]
+  },
+  "contributions": {
+    "title": "Contribuciones",
+    "contributions": [
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "WordPress"
+        ],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "WordPress"
+        ],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      },
+      {
+        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "alt": "Advanced Periodontics",
+        "title": "Advanced Periodontics",
+        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "techs": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "PHP",
+          "WordPress"
+        ],
+        "repo": "#",
+        "repo_label": "Repositorio",
+        "commits": "#"
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "Soy Full Stack Developer con pasión por el frontend, con más de 4 años de experiencia profesional",
+    "description": "Desarrollador Full Stack especializado en React y tecnologías modernas, con experiencia comprobada trabajando para agencias digitales y grandes marcas. Domino el stack completo desde frontend (React, Next.js, TypeScript, Tailwind) hasta backend (Node.js, MongoDB, PostgreSQL) y cloud (Azure, AWS). He liderado la refactorización de plataformas comerciales, desarrollado experiencias de Realidad Aumentada y mentorado a nuevos desarrolladores. Mi enfoque está en crear soluciones escalables y optimizadas, siempre bajo metodologías ágiles como SCRUM, lo que me convierte en un profesional versátil y comprometido para cualquier desafío tecnológico."
+  },
+  "contact": {
+    "title": "¿Listo para dar vida a tus ideas?",
+    "subtitle": "Puedo impulsar tu proyecto o formar parte de tu equipo"
+  },
+  "footer": {
+    "designed": {
+      "designed_with": "Diseñado con",
+      "designed_by": "por"
+    },
+    "developed": {
+      "developed_with": "Hecho con",
+      "developed_by": "por"
+    }
+  }
+}
